@@ -19,4 +19,4 @@ Remote-ready (IST) · Async-friendly · Strong written communication
 
 ## Tech Stack
 
-Python, FastAPI, PostgreSQL, Redis, Celery, Docker, GitHub Actions
+Python, FastAPI, Node.Js, JavaScript, PostgreSQL, Redis, Celery, Docker, GitHub Actions
